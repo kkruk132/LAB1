@@ -1,7 +1,7 @@
 # Zad 3
 
 # Zmienne zawierające imię, wiek i wzrost:
-imie =("Jan")
+imie ="Jan"
 wiek = 20
 wzrost = 178
 

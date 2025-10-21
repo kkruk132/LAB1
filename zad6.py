@@ -1,7 +1,7 @@
 # Zad 6
 
 
-# Zmienne dystans i spalanie pobierają od użytkownika dane i zmieniają je na float (liczby rzeczywiste)
+# Zmienne dystans i spalanie pobierają od użytkownika dane i zmieniają je na float
 dystans = float(input("podaj liczbę pokonanych kilometrów: "))
 spalanie = float(input("podaj spalanie swojego samochodu w L/100km: "))
 

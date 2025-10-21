@@ -20,4 +20,5 @@ koszt = round(zuzycie * cena, 2)
 # Round wyświetla wyniki do dwóch miejsc po przecinku
 
 # Wyświetlenie wyników
-print("Twój samochód spali",zuzycie,"L paliwa","\nKoszt podróży wyniesie",koszt,"zł\nwygenerowany dystans to",dystans,"km")
+print("Twój samochód spali",zuzycie,"L paliwa","\nKoszt podróży wyniesie",koszt,
+      "zł\nwygenerowany dystans to",dystans,"km")
